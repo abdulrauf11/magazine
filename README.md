@@ -1,5 +1,4 @@
-````shell
-    npm install
-    npm run dev
-    ```
-````
+```shell
+npm install
+npm run dev
+```
