@@ -32,10 +32,10 @@ Parcel will bundle all your assets HTML, CSS and JS out of the box. You can also
 
 You can read more about it here: https://parceljs.org/
 
-## VScode Live Server extension
-
-If you don't want to use parcel then just install the 'Live Server' (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VSCODE and get started right away
-
 ## What is a package.json file?
 
 If you want to know about the package.json file: https://dev.to/easybuoy/understanding-the-package-json-file-3fdg#:~:text=json%20file-,A%20package.,and%20a%20whole%20lot%20more.
+
+## VScode Live Server extension
+
+If you don't want to use parcel then just install the 'Live Server' (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VSCODE and get started right away! You don't need to install any dependencies or use package.json file for that. However, you won't be able use es6 or third-party libraries in that case. Parcel.js does all the heavy-lifting for you.
